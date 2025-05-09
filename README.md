@@ -4,10 +4,10 @@
 </p>
 
 <!-- 数据看板（参考网页7统计卡片） -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/yourname)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)](https://github.com/yourname)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wxbxbwjb&show_icons=true&theme=radical)](https://github.com/Wxbxbwjb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wxbxbwjb&layout=compact)](https://github.com/Wxbxbwjb)
 
-[![GitHub Snake](https://raw.githubusercontent.com/yourname/yourname/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+[![GitHub Snake](https://raw.githubusercontent.com/Wxbxbwjb/Wxbxbwjb/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 ### 🛠 技术栈
 <!-- 动态图标（参考网页6图片应用） -->
@@ -19,9 +19,9 @@
 
 ### 📌 精选项目
 <!-- 项目卡片（参考网页7仓库展示） -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)](https://github.com/YOURNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)](https://github.com/YOURNAME)
-| [![项目1](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=repo1)](https://github.com/yourname/repo1) | [![项目2](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=repo2)](https://github.com/yourname/repo2) |
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wxbxbwjb)](https://github.com/Wxbxbwjb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wxbxbwjb)](https://github.com/Wxbxbwjb)
+| [![项目1](https://github-readme-stats.vercel.app/api/pin/?username=Wxbxbwjb&repo=repo1)](https://github.com/Wxbxbwjb/repo1) | [![项目2](https://github-readme-stats.vercel.app/api/pin/?username=Wxbxbwjb&repo=repo2)](https://github.com/Wxbxbwjb/repo2) |
 | --- | --- |
 
 ### 🌟 近期动态
