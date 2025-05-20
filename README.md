@@ -1,6 +1,6 @@
 <!-- 顶部横幅（参考网页8徽章设计） -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;技术布道者" alt="动态标语">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=Oranger" alt="动态标语">
 </p>
 
 <!-- 数据看板（参考网页7统计卡片） -->
@@ -28,7 +28,4 @@
 <!-- 活动流（参考网页7 metrics 统计） -->
 ```mermaid
 pie title 编码时间分配
-    "Python" : 45
-    "JavaScript" : 30
-    "Docker" : 15
-    "其他" : 10
+    "Python" : 114514
